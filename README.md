@@ -47,3 +47,5 @@ Built with vanilla JavaScript and Bootstrap for the frontend, Java Servlets for 
 Classmate simplifies the process of note-taking and sharing, ensuring students can focus on their studies without worrying about managing their notes. Whether you’re jotting down lecture highlights, sharing code snippets, or collaborating on projects, Classmate is your go-to solution.
 
 Say goodbye to notebooks and hello to smarter note management with **Classmate**!
+
+> Built in 2013
